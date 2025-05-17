@@ -1,7 +1,8 @@
 name: adapt_size
 description: "A lightweight responsive utility for scaling widgets, text, and layout based on screen size and device type (mobile, tablet, desktop)."
 version: 0.0.1
-homepage:
+homepage: https://github.com/hendriari/adapt_size
+repository: https://github.com/hendriari/adapt_size
 
 environment:
   sdk: '>=2.17.0 <4.0.0'

@@ -1,13 +1,19 @@
+[![pub version](https://img.shields.io/pub/v/adapt_size.svg)](https://pub.dev/packages/adapt_size)
+
 # Adapt Size
 
 A lightweight responsive utility for scaling widgets, text, and layout based on screen size and device type (mobile, tablet, desktop).
 
-## Features
-- Responsive width, height, and text scaling
-- Device type classification
-- Orientation-aware layout
-- Easy to use extensions: `.w`, `.h`, `.sp`
-- Minimal setup, no builder wrapping `MaterialApp` required
+
+## ✨ Features
+
+- 📱 Responsive width, height, and text scaling
+- 🧠 Automatic device type classification (mobile, tablet, desktop)
+- 🔄 Orientation-aware layout support
+- 💡 Easy-to-use extensions: `.w`, `.h`, `.sp`
+- ⚡️ Minimal setup – no need to wrap `MaterialApp`
+
+## 🚀 Getting Started
 
 ## Getting Started
 
